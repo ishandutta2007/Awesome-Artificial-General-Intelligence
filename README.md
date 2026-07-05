@@ -130,3 +130,15 @@ Before updating this repository workspace layout, let me know how you would like
 * I can provide a **complete Python code boilerplate using PyTorch** demonstrating how to write an automated script that maps out a basic, reinforcement-learned policy ratio clip calculation loop [INDEX: 16].
 * I can generate a **Markdown matrix table** tracking the explicit parameter footprints, hardware cluster setups, and token dataset profiles utilized by leading foundational laboratories to evaluate frontier systems [INDEX: 15].
 * I can write a detailed technical explanation focusing on the **mathematics of Tokenized Kinetic Actuation** and how domain randomization algorithms neutralize the Sim-to-Real performance gap over physical edge hardware chipsets.
+
+
+##  Star History
+<div align="center">
+<a href="https://www.star-history.com/?repos=ishandutta2007/Awesome-Artificial-General-Intelligence&type=date&legend=bottom-right">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Artificial-General-Intelligence&type=date&theme=dark&legend=bottom-right" />
+<source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Artificial-General-Intelligence&type=date&legend=bottom-right" />
+<img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Artificial-General-Intelligence&type=date&legend=bottom-right" />
+</picture>
+</a>
+</div>
