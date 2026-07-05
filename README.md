@@ -1,6 +1,13 @@
 ![Banner](./assets/banner.svg)
 
 # 🌟 Awesome-Artificial-General-Intelligence
+
+<div align="center">
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+</div>
+
+<!-- SEO tags: AGI, Artificial General Intelligence, Human-Level AI, Strong AI, Embodied AI, Machine Learning, Deep Learning, Foundation Models, LLMs, Neural Networks -->
+*A comprehensive curated list of Awesome Artificial General Intelligence (AGI) resources, tracking the evolution, architecture, and milestones toward human-level and superhuman AI.*
 ## 🧠 Artificial General Intelligence (AGI): History, Progression, Levels, & Paradigms
 
 Artificial General Intelligence (AGI)—alternatively conceptualized as Human-Level AI, Strong AI, or General Embodied Intelligence—is the foundational frontier paradigm in computer science denoting an autonomous system that matches or surpasses human cognitive capabilities across the entire spectrum of economically valuable tasks. Unlike narrow AI systems (Narrow AI), which are hardwired to optimize for highly specific, bounded domains (e.g., medical pathology segmentations [INDEX: 1], image text-scaling filters [INDEX: 21], or chess-tree algorithms [INDEX: 18]), an AGI system possesses the capacity to synthesize abstract concepts, adapt to entirely novel and un-indexed environmental distributions, engage in multi-step reflective reasoning (System 2 thinking) [INDEX: 1], and transfer learned logical heuristics across entirely disparate domains on-the-fly without human structural interventions.
