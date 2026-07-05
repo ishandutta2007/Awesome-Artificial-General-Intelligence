@@ -10,7 +10,11 @@ Artificial General Intelligence (AGI)—alternatively conceptualized as Human-Le
 The conceptual framework governing general machine intelligence has transitioned from rigid symbolic logic rules to deep connectionist scaling models, moving toward native reinforcement-learned reasoning loops and multi-modal physical grounding world adapters.
 
 ```mermaid
-[Symbolic Good Old-Fashioned AI (GOFAI)] ───> [The Connectionist Scale Wave (GPT-3, 2020)] ───> [Native System 2 Reasoning (o1/R1)] ───> [General Physical Intelligence (GPI, Present)](Fragile Hand-Crafted Logic Trees)             (Statistically Dense Token Mimicry)            (Internalized Verification & Self-Correction)     (Omnidirectional Spatial Token Actuation)
+flowchart LR
+    A["Symbolic AI (GOFAI)<br/>(Hand-Crafted Rules & Symbolic Reasoning)"]
+    --> B["Large-Scale Connectionist Models (GPT-3, 2020)<br/>(Scaling Neural Language Models)"]
+    --> C["Reasoning-Centric LLMs (o1 / R1)<br/>(Inference-Time Reasoning & Self-Verification)"]
+    --> D["General Physical Intelligence (Emerging)<br/>(Integrated Perception, Reasoning & Action)"]
 ```
 
 *   **The Symbolic & Good Old-Fashioned AI Era (GOFAI Baseline, ~1950s–1980s)**
@@ -62,7 +66,27 @@ To coordinate and scale up general physical and cognitive operations smoothly, s
 
 
 ```mermaid
-Unified AGI System Engineering Matrix┌────────────────────────┐│ Dynamic Multimodal Input│└───────────┬────────────┘│┌───────────────────────┼───────────────────────┐▼                       ▼                       ▼Spatial VLA Frontend     Reasoning Engine (RL)    Tool-Access Server (MCP)(Pixels/IMU Vectors)     (System 2 Hidden Token)   (Sandboxes / DB Queries)│                       │                       │└───────────────────────┼───────────────────────┘│▼Distributed Actuation Pipeline(Electrical Motor Torques / API Outputs)
+flowchart TB
+
+A["Dynamic Multimodal Input"]
+
+A --> B
+A --> C
+A --> D
+
+subgraph S["Unified AGI System"]
+    B["Spatial VLA Frontend<br/>(Pixels / IMU / Sensor Streams)"]
+
+    C["Reasoning Engine<br/>(Inference-Time Reasoning)"]
+
+    D["Tool Access Layer<br/>(MCP, APIs, Databases, Sandboxes)"]
+end
+
+B --> E["Distributed Actuation Pipeline"]
+C --> E
+D --> E
+
+E["Actions<br/>(Motor Commands / API Calls / Responses)"]
 ```
 
 *   **Model Context Protocol (MCP) Integration Layers**
