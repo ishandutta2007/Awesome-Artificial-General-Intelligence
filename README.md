@@ -1,11 +1,13 @@
-# Awesome-Artificial-General-Intelligence
-## Artificial General Intelligence (AGI): History, Progression, Levels, & Paradigms
+![Banner](./assets/banner.svg)
+
+# 🌟 Awesome-Artificial-General-Intelligence
+## 🧠 Artificial General Intelligence (AGI): History, Progression, Levels, & Paradigms
 
 Artificial General Intelligence (AGI)—alternatively conceptualized as Human-Level AI, Strong AI, or General Embodied Intelligence—is the foundational frontier paradigm in computer science denoting an autonomous system that matches or surpasses human cognitive capabilities across the entire spectrum of economically valuable tasks. Unlike narrow AI systems (Narrow AI), which are hardwired to optimize for highly specific, bounded domains (e.g., medical pathology segmentations [INDEX: 1], image text-scaling filters [INDEX: 21], or chess-tree algorithms [INDEX: 18]), an AGI system possesses the capacity to synthesize abstract concepts, adapt to entirely novel and un-indexed environmental distributions, engage in multi-step reflective reasoning (System 2 thinking) [INDEX: 1], and transfer learned logical heuristics across entirely disparate domains on-the-fly without human structural interventions.
 
 ---
 
-## 1. The Macro Chronological Evolution
+## ⏳ 1. The Macro Chronological Evolution
 
 The conceptual framework governing general machine intelligence has transitioned from rigid symbolic logic rules to deep connectionist scaling models, moving toward native reinforcement-learned reasoning loops and multi-modal physical grounding world adapters.
 
@@ -26,7 +28,7 @@ flowchart LR
 
 ---
 
-## 2. Quantitative Classification: The 5 Levels of AGI
+## 📊 2. Quantitative Classification: The 5 Levels of AGI
 
 To transition away from unscientific anthropomorphic evaluations, contemporary framework standards (standardized by researchers at Google DeepMind) categorize general machine intelligence into strict operational performance tiers based on task breadth and human capability pacing.
 
@@ -41,7 +43,7 @@ To transition away from unscientific anthropomorphic evaluations, contemporary f
 
 ---
 
-## 3. High-Capacity Architectural & System Engineering Components
+## 🏗️ 3. High-Capacity Architectural & System Engineering Components
 
 To coordinate and scale up general physical and cognitive operations smoothly, state-of-the-art AGI infrastructure topologies orchestrate a multi-layered neuro-symbolic stack.
 
@@ -76,7 +78,7 @@ E["Actions<br/>(Motor Commands / API Calls / Responses)"]
 
 ---
 
-## 4. Production Engineering Challenges & Frontier Mitigations
+## ⚠️ 4. Production Engineering Challenges & Frontier Mitigations
 
 Scaling general machine intelligence networks past competent baselines introduces critical computational memory boundaries and real-world system vulnerabilities.
 
@@ -87,7 +89,7 @@ Scaling general machine intelligence networks past competent baselines introduce
 
 ---
 
-## 5. Frontier Real-World Infrastructure Applications
+## 🚀 5. Frontier Real-World Infrastructure Applications
 
 | Application | Details | Year First Used | Paper Link |
 | :--- | :--- | :--- | :--- |
@@ -97,7 +99,7 @@ Scaling general machine intelligence networks past competent baselines introduce
 
 ---
 
-## References
+## 📚 References
 1. Turing, A. M. (1950). Computing machinery and intelligence. *Mind*, 59(236), 433-460.
 2. Newell, A., & Simon, H. A. (1961). GPS, a program that simulates human thought. *Computers and Automation*, 10(4), 18-24.
 3. Silver, D., et al. (2017). Mastering chess and shogi by self-play with a general reinforcement learning algorithm. *arXiv preprint arXiv:1712.01815* [INDEX: 18].
