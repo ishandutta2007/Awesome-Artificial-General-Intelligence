@@ -32,27 +32,27 @@ The conceptual framework governing general machine intelligence has transitioned
 
 To transition away from unscientific anthropomorphic evaluations, contemporary framework standards (standardized by researchers at Google DeepMind) categorize general machine intelligence into strict operational performance tiers based on task breadth and human capability pacing.
 
-### Level 0: No AI
-*   **Definition:** Standard classic computing infrastructure.
-*   **Examples:** Simple database query indices, hardcoded arithmetic processors, or traditional text-editing software scripts.
+- ### Level 0: No AI
+	*   **Definition:** Standard classic computing infrastructure.
+	*   **Examples:** Simple database query indices, hardcoded arithmetic processors, or traditional text-editing software scripts.
 
-### Level 1: Emergent AGI
-*   **Definition:** Matches or slightly outperforms an unskilled human operator across a wide, general array of conversational, linguistic, and information-retrieval tasks.
-*   **Examples:** Standard pre-trained base LLMs and early chat-aligned foundation architectures.
+- ### Level 1: Emergent AGI
+	*   **Definition:** Matches or slightly outperforms an unskilled human operator across a wide, general array of conversational, linguistic, and information-retrieval tasks.
+	*   **Examples:** Standard pre-trained base LLMs and early chat-aligned foundation architectures.
 
-### Level 2: Competent AGI
-*   **Definition:** Outperforms at least the 50th percentile of skilled adult humans across a broad spectrum of cognitively demanding intellectual, professional, and software engineering domains.
-*   **Examples:** Advanced, reinforcement-learned test-time compute reasoning models (such as o1/R1 lines) executing automated multi-file coding tickets and structural scientific derivations autonomously [INDEX: 1, 21].
+- ### Level 2: Competent AGI
+	*   **Definition:** Outperforms at least the 50th percentile of skilled adult humans across a broad spectrum of cognitively demanding intellectual, professional, and software engineering domains.
+	*   **Examples:** Advanced, reinforcement-learned test-time compute reasoning models (such as o1/R1 lines) executing automated multi-file coding tickets and structural scientific derivations autonomously [INDEX: 1, 21].
 
-### Level 3: Expert AGI
-*   **Definition:** Outperforms at least the 90th percentile of highly specialized human professionals and domain-expert PhDs across the global capability matrix.
-*   **Target Milestones:** Continuous autonomous publication of novel, peer-reviewed scientific whitepapers, de novo molecular pharmaceutical discoveries, and automated optimization of distributed network server code without human oversight.
+- ### Level 3: Expert AGI
+	*   **Definition:** Outperforms at least the 90th percentile of highly specialized human professionals and domain-expert PhDs across the global capability matrix.
+	*   **Target Milestones:** Continuous autonomous publication of novel, peer-reviewed scientific whitepapers, de novo molecular pharmaceutical discoveries, and automated optimization of distributed network server code without human oversight.
 
-### Level 4: Virtuoso AGI
-*   **Definition:** Outperforms the absolute 99th percentile of elite human masters, grandmasters, and historical historical visionaries across general tasks (analogous to an all-domain extension of AlphaZero's dominance over human chess masters) [INDEX: 18].
+- ### Level 4: Virtuoso AGI
+	*   **Definition:** Outperforms the absolute 99th percentile of elite human masters, grandmasters, and historical historical visionaries across general tasks (analogous to an all-domain extension of AlphaZero's dominance over human chess masters) [INDEX: 18].
 
-### Level 5: Superhuman AI (ASI)
-*   **Definition:** Demonstrates absolute mathematical dominance, outperforming 100% of collective human capability across every conceivable metric, including long-horizon multi-agent world building, advanced physical engineering, and abstract mathematical innovation.
+- ### Level 5: Superhuman AI (ASI)
+	*   **Definition:** Demonstrates absolute mathematical dominance, outperforming 100% of collective human capability across every conceivable metric, including long-horizon multi-agent world building, advanced physical engineering, and abstract mathematical innovation.
 
 ---
 
